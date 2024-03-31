@@ -14,7 +14,7 @@ House Price Prediction
 - The code is organized into separate files for data preprocessing, model building, model evaluation, finding the optimal lambda values, model selection, and model deployment.
 
 
-## Technologies Used
+## Technology Used
 - Python
 
  ## Model
